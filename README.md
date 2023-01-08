@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://cdn.jsdelivr.net/gh/s-chance/firgure-bed/img/202301081731114.png"/>
+
+
 - 🔭 I’m currently writing some [articles](https://s-chance.github.io/)
 - 🌱 I’m currently learning Java/Golang/Rust
 - 🤔 I’m looking for help with ...
@@ -23,6 +24,8 @@ Here are some ideas to get you started:
 
 ![s-chance's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-chance&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-chance&layout=compact)](https://github.com/s-chance/github-readme-stats)
+
+<img src="https://cdn.jsdelivr.net/gh/s-chance/firgure-bed/img/202301081731114.png"/>
 
 ![IDE](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
