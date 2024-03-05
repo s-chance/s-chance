@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 </a>
 </p>
 
+Maybe you see that the html in the "Github Analytics" stats is the highest, but that's all because I often use hexo to generate html and push :)
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills That I Know</b>
 <br>
   
